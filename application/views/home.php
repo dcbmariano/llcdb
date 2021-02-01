@@ -7,7 +7,7 @@
                     <p style="font-size:16px; padding:15px 0; text-align: justify;">
                         xyz
                     </p>
-                    <a href="<?php echo base_url(); ?>explore" class="btn btn-dark btn-lg">Explore</a>
+                    <a href="<?php echo base_url(); ?>explore" class="btn btn-warning btn-lg">Explore</a>
                     <!--<a href="#" data-toggle="modal" class="btn btn-success btn-lg" data-target="#tutorial">Tutorial</a>-->
                 </div>
                 <div class="col-md-5 col-xs-12">
