@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>	
 <head>
-    <title>Propedia</title>    
+    <title>LLCdb</title>    
     <meta charset="utf-8">    
     
     <link rel="stylesheet" href="<?php echo base_url(); ?>public/css/bootstrap.min.css">

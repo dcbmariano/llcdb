@@ -3,9 +3,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7 col-xs-12" style="padding: 20px 30px;">
-                    <h2>A database of peptide-protein interactions</h2>
+                    <h2>Leucemia Linfocítica Crônica database</h2>
                     <p style="font-size:16px; padding:15px 0; text-align: justify;">
-                        PROPEDIA is a database of peptide-protein complexes clusterized in three methodologies: (i) peptide sequences; (ii) structure interface; and (iii) binding sites. PROPEDIA main goal is to give new insights into peptide design of biotechnological interests.
+                        xyz
                     </p>
                     <a href="<?php echo base_url(); ?>explore" class="btn btn-success btn-lg">Explore</a>
                     <!--<a href="#" data-toggle="modal" class="btn btn-success btn-lg" data-target="#tutorial">Tutorial</a>-->
