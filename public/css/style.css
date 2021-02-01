@@ -15,7 +15,7 @@ footer { background-color: #111; min-height: 50px; color:#e4e4e4; padding:30px 3
 #menu li:hover { background-color:#eeb90a; }
 
 /*#content { margin-top:70px; }*/
-#hero { background-color:#e4e5e6; background-image: url('../img/header.jpg'); background-position: center top; background-repeat: no-repeat; min-height: 750px; color:#111; }
+#hero { background-color:#eeb90a; background-image: url('../img/header.jpg'); background-position: center top; background-repeat: no-repeat; min-height: 750px; color:#111; }
 #hero h1 { font-size: 48px; }
 #hero h3 { font-weight: 400 !important; line-height: 130%; padding:20px 0; }
 #overlay_hero { /*background-image: url('../img/overlay.png'); */width: 100%; min-height: 600px; padding-top:130px;  }
